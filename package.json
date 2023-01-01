@@ -21,8 +21,8 @@
   "homepage": "https://github.com/gaetan-varlet/exercice-javascript-world-bucket-list#readme",
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "webpack": "^4.37.0",
-    "webpack-cli": "^3.3.6",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.7.2"
   }
 }
